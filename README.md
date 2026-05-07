@@ -19,7 +19,7 @@ This project predicts used car prices using Python and machine learning techniqu
 ## Dataset
 Dataset sourced from Kaggle:
 
-https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset
+[https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data]
 
 ## Project Structure
 
